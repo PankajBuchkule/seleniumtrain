@@ -1,1 +1,5 @@
-This is first file of my repository
+This is first file of my repository.
+
+Adding a new line after first commit.
+
+Adding new third line before commiting prevoius changes.
