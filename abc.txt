@@ -2,4 +2,6 @@ This is first file of my repository.
 
 Adding a new line after first commit.
 
-Adding new third line before commiting prevoius changes.
+Adding new third line before commiting prevoius changes.y
+
+adding new file after git - 30June-2019	
